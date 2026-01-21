@@ -9,8 +9,8 @@
 
 # Approach
 #  Test whether data meets proportional hazards assumption
-#  If yes, proceed with cox model
-#  If no, proceed with alternative, RMST (restricted mean survival time)
+#  If yes, proceed with cox model as established in (10.1093/evolut/qpae101 and 10.1016/j.virol.2025.110759 )
+#  If no, proceed with alternative, RMST (restricted mean survival time, use outlined in 10.3348/kjr.2022.0061 and 10.1186/1471-2288-13-152)
 
 # Preparation
 library(survival)

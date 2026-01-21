@@ -8,8 +8,8 @@
 #  To determine whether miRNA mutant line changes SINV RNA accumulation compared to paired control.
 
 # Approach
-#  Log base 2 transform data
-#  Use Paired T-Test to test
+#  Log base 2 transform data (helps with distribution given the data is virus accumulation)
+#  Use Two-tailed Paired T-Test as previously established in (10.1016/j.virol.2016.12.009).
 
 # Preparation
 library(dplyr)
