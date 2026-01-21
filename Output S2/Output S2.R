@@ -3,7 +3,7 @@
 # Rationale/Questions
 #  We want to use our results to determine whether there is a correlation between conservation and virus impact.
 #  To address this rationale, we had the following questions:
-#  1. Are miRNAs which impact virus infection are more likely to be conserved (than no-impact)?
+#  1. Are miRNAs which impact virus infection  more likely to be conserved (than no-impact)?
 #  2. Are conserved miRNAs more likely to target more/multiple viruses (than non-conserved)?
 
 # Approach
